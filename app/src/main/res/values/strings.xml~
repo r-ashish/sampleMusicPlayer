@@ -1,0 +1,39 @@
+<resources>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string-array name="nav_drawer_items">
+        <item >Sample song 1</item>
+        <item >Sample song 2</item>
+        <item >Sample song 3</item>
+        <item >Sample song 4</item>
+        <item >Sample song 5</item>
+        <item >Sample song 6</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/durga</item>
+        <item>@drawable/hanuman</item>
+        <item>@drawable/ram</item>
+        <item>@drawable/hanuman</item>
+        <item>@drawable/hanuman</item>
+        <item>@drawable/hanuman</item>
+    </array>
+    <string name="notice">Hi there !\nSelect a song from list to play</string>
+    <string name="app_name">HoneySha_Tech</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_player">player</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
